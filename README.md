@@ -10,7 +10,7 @@ To ensure precise detection of 2 diseases affecting potato crops:
 # Dataset
 A comprehensive dataset was taken from Kaggle.
 
-**Data Allocations: **
+**Data Allocations:**
 
  -> Training - 80%
  -> Validation - 10%

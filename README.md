@@ -13,7 +13,9 @@ A comprehensive dataset was taken from Kaggle.
 **Data Allocations:**
 
  -> Training - 80%
+ 
  -> Validation - 10%
+ 
  -> Testing - 10%
  
 Dataset Link: https://www.kaggle.com/datasets/arjuntejaswi/plant-village
